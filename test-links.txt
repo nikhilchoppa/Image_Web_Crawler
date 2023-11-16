@@ -1,0 +1,6 @@
+Please paste your list of test URLs below:
+ebay.com
+geeksforgeeks.org
+hellomagazine.com
+https://www.nationalgeographic.com
+https://www.nasa.gov
